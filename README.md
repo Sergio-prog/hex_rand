@@ -1,4 +1,4 @@
 # hex_rand
-Old project
+So old and simple project
 
 Can generate random HEX color and show it.
